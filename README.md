@@ -1,4 +1,5 @@
 takazudo-svg
 ============
 
-Takazudo-Art3.svg
+It's Takazudo-Art3.svg !
+Wow !
